@@ -5,7 +5,7 @@
 ---
 ## Add Some Slide Candy
 
-![](assets/img/presentation.png)
+![](https://media.giphy.com/media/Um3ljJl8jrnHy/giphy-downsized.gif)
 
 ---
 @title[Customize Slide Layout]
